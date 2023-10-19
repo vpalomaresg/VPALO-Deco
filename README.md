@@ -2,7 +2,7 @@
 
 <h2 align="center">📸 Screenshots</h2>
 <p align="center"><a href="https://github.com/vpalomaresg/VPALO-GNULinuxCustomizations"><img width=25% src="./preview/color-scheme.png" align="center" alt="VPALO-Color-Scheme" /></a></p>
-<p align="center"><a href="https://github.com/vpalomaresg/VPALO-GNULinuxCustomizations"><img width=75% src="./preview/window-decoration.png" align="center" alt="VPALO-Window-Decoration" /></a></p>
+<p align="center"><a href="https://github.com/vpalomaresg/VPALO-GNULinuxCustomizations"><img width=80% src="./preview/window-decoration.png" align="center" alt="VPALO-Window-Decoration" /></a></p>
 
 ---
 
