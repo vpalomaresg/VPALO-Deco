@@ -1,2 +1,2 @@
 # VPALO-Decos
-Plasma Window Decoration. Adaptation based on 'vinceliuice/MacSonoma-kde' work.
+Plasma Window Decoration. Adaptation based on '[vinceliuice/MacSonoma-kde](https://github.com/vinceliuice/MacSonoma-kde)' work.
