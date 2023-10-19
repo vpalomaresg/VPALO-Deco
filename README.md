@@ -2,6 +2,10 @@
 
 ---
 
+## Table of Contents
+
+- [🚧 Installation]()
+
 ## 🚧 Installation
   
 <h3 align="center">Color Scheme</h3>
