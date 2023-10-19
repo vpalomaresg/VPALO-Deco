@@ -10,7 +10,7 @@
   
 ### Color Scheme (`VPALO.colors` file)
 1. Move the `VPALO.colors` file to `/usr/share/color-schemes` directory.
-2. Once you moved the file, go open `Colors` to apply `VPALO` (*Color Scheme*).
+2️⃣.- Once you moved the file, go open `Colors` to apply `VPALO` (*Color Scheme*).
 
 ---
 
