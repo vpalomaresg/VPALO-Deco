@@ -7,19 +7,19 @@
 ---
 
 ## Installation
-### Color Scheme
+### Color Scheme (`VPALO.colors` file)
 1. Move the `VPALO.colors` file to `/usr/share/color-schemes` directory.
 2. Once you moved the file, go open `Colors` to apply `VPALO` (*Color Scheme*).
 
 ---
 
-### Plasma Window Decoration
+### Plasma Window Decoration (`VPALO-Deco` folder)
 1. Move the `VPALO-Deco` folder to `/usr/share/aurorae/themes/` directory.
 2. Once you moved the directory, go open  `Window Decorations` to apply `VPALO-Deco` (*Plasma Window Decoration*).
 
 ---
 
-### Neofetch `config.conf`
+### Neofetch Configuration (`config.conf` file)
 1. Replace the `config.conf` file in `/home/YOUR-USER/.config/neofetch/` directory.
 2. Type `neofetch` to test it.
 
