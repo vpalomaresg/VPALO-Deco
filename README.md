@@ -1,8 +1,8 @@
 <h1 align="center">VPALO's GNU/Linux Customizations</h1>
 
 ## Screenshots (Preview)
-<p align="center"><img width=25% src="./preview/color-scheme.png" align="center" alt="VPALO-Color-Scheme" /></p>
-<p align="center"><img width=75% src="./preview/window-decoration.png" align="center" alt="VPALO-Window-Decoration" /></p>
+<p align="center"><a href="https://raw.githubusercontent.com/vpalomaresg/VPALO-GNULinuxCustomizations/main/preview/color-scheme.png" target="_blank"><img width=25% src="./preview/color-scheme.png" align="center" alt="VPALO-Color-Scheme" /></a></p>
+<p align="center"><a href="https://raw.githubusercontent.com/vpalomaresg/VPALO-GNULinuxCustomizations/main/preview/window-decoration.png" target="_blank"><img width=75% src="./preview/window-decoration.png" align="center" alt="VPALO-Window-Decoration" /></a></p>
 
 ---
 
@@ -26,7 +26,7 @@
 #### Acknowledgements
 - 🟢 **`VPALO-Deco`** (*Plasma Window Decoration*) is based on [`vinceliuice`](https://github.com/vinceliuice/MacSonoma-kde)'s work. **Thank you** for your time and effort.
 
-<p align="center"><a href="https://raw.githubusercontent.com/vpalomaresg/neofetch-config/main/Screenshot.png" target="_blank"><img src="./Screenshot.png" align="center" alt="vpalomaresg-neofetch" /></a>
+<p align="center"><a href="https://raw.githubusercontent.com/vpalomaresg/neofetch-config/main/Screenshot.png" target="_blank"><img src="./Screenshot.png" align="center" alt="vpalomaresg-neofetch" />
 
 1. Replace the `config.conf` file in `/home/YOUR-USER/.config/neofetch/` directory.
 2. Type `neofetch` to test it.
