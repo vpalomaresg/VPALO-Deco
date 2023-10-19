@@ -1,5 +1,5 @@
 # Set it up
-Based on [vinceliuice](https://github.com/vinceliuice/MacSonoma-kde)'s work.
+✅ Based on [vinceliuice](https://github.com/vinceliuice/MacSonoma-kde)'s work.
 
 
 
