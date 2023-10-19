@@ -1,4 +1,4 @@
-# Set it up
+# VPALO's GNU/Linux Customizations
 
 `Note`: ✅ The *Plasma Window Decoration* is based on [vinceliuice](https://github.com/vinceliuice/MacSonoma-kde)'s work.
 
