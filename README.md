@@ -31,7 +31,7 @@
 
 <p align="center"><a href="https://github.com/vpalomaresg/VPALO-GNULinuxCustomizations"><img width=80% src="./preview/window-decoration.png" align="center" alt="VPALO-Window-Decoration" /></a></p>
 
-1️⃣. Replace the `config.conf` file in `/home/YOUR-USER/.config/neofetch/` directory.
+1️⃣. Replace the `config.conf` file in `~/.config/neofetch/` directory.
 
 2️⃣. Execute `neofetch` to test it and check the results.
 
