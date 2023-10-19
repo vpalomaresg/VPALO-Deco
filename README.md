@@ -31,4 +31,4 @@
 - 🟡 If something is missing or wrong, feel free to check the [KDE Plasma Documentation](https://develop.kde.org/docs/plasma/) yourself.
 
 #### Acknowledgements
-- 🟢 **`VPALO-Deco`** (*Plasma Window Decoration*): My work is based on [`vinceliuice`](https://github.com/vinceliuice/MacSonoma-kde)'s work. **Thank you** for your time and effort.
+- 🏆 **`VPALO-Deco`** (*Plasma Window Decoration*): My work is based on [`vinceliuice`](https://github.com/vinceliuice/MacSonoma-kde)'s work. **Thank you** for your time and effort.
