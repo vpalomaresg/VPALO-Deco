@@ -9,6 +9,7 @@
     - [Plasma Window Decoration](#plasma-window-decoration)
     - [Neofetch Configuration](#neofetch-configuration)
 - 🏆 [Acknowledgements](#-acknowledgements)
+- 📝 [Final Notes](#-final-notes)
 
 ## 🚧 Installation
   
@@ -51,5 +52,5 @@
 
 ---
 
-## 📝 Final notes
+## 📝 Final Notes
 - If something is missing or wrong, feel free to check the [`KDE Plasma Documentation`](https://develop.kde.org/docs/plasma/) yourself.
