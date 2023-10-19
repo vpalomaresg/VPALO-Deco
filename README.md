@@ -1,8 +1,8 @@
 <h1 align="center">VPALO's GNU/Linux Customizations</h1>
 
 ## Screenshots (Preview)
-<p align="center"><a href="https://raw.githubusercontent.com/vpalomaresg/VPALO-GNULinuxCustomizations/main/preview/color-scheme.png" target="_blank"><img width=25% src="./preview/color-scheme.png" align="center" alt="VPALO-Color-Scheme" /></a></p>
-<p align="center"><a href="https://raw.githubusercontent.com/vpalomaresg/VPALO-GNULinuxCustomizations/main/preview/window-decoration.png" target="_blank"><img width=75% src="./preview/window-decoration.png" align="center" alt="VPALO-Window-Decoration" /></a></p>
+<p align="center"><a href="https://raw.githubusercontent.com/vpalomaresg/VPALO-GNULinuxCustomizations/main/preview/color-scheme.png"><img width=25% src="./preview/color-scheme.png" align="center" alt="VPALO-Color-Scheme" /></a></p>
+<p align="center"><a href="https://raw.githubusercontent.com/vpalomaresg/VPALO-GNULinuxCustomizations/main/preview/window-decoration.png"><img width=75% src="./preview/window-decoration.png" align="center" alt="VPALO-Window-Decoration" /></a></p>
 
 ---
 
