@@ -19,14 +19,15 @@
 
 ---
 
+### Neofetch `config.conf`
+1. Replace the `config.conf` file in `/home/YOUR-USER/.config/neofetch/` directory.
+2. Type `neofetch` to test it.
+
+---
+
 #### Notes
 - 🟡 Please, use any [Nerd Font](https://www.nerdfonts.com/font-downloads) in order to make the icons visible in terminal (I'm using [`MesloLG Nerd Font`](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.0.2/Meslo.zip)).
 - 🟡 If something is missing or wrong, feel free to check the [KDE Plasma Documentation](https://develop.kde.org/docs/plasma/) yourself.
 
 #### Acknowledgements
 - 🟢 **`VPALO-Deco`** (*Plasma Window Decoration*) is based on [`vinceliuice`](https://github.com/vinceliuice/MacSonoma-kde)'s work. **Thank you** for your time and effort.
-
-<p align="center"><a href="https://raw.githubusercontent.com/vpalomaresg/neofetch-config/main/Screenshot.png" target="_blank"><img src="./Screenshot.png" align="center" alt="vpalomaresg-neofetch" />
-
-1. Replace the `config.conf` file in `/home/YOUR-USER/.config/neofetch/` directory.
-2. Type `neofetch` to test it.
