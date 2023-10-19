@@ -20,9 +20,10 @@
 ---
 
 ### Neofetch Configuration (`config.conf` file)
+- `Note 1`: For the correct neofetch configuration usage, please use any [`Nerd Font`](https://www.nerdfonts.com/font-downloads) in order to make the icons visible in terminal (for instance, I am using '[MesloLG Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.0.2/Meslo.zip)').
+- `Note 2`: There is no need to backup your original `config.conf` file because if you lose that file, it will be regenerated when you type and run `neofetch` in your terminal.
 1. Replace the `config.conf` file in `/home/YOUR-USER/.config/neofetch/` directory.
-    - There is no need to backup your original `config.conf` file because if you lose that file, it will be regenerated when you type and run `neofetch` in your terminal.
-3. Execute `neofetch` to test it and check the results.
+2. Execute `neofetch` to test it and check the results.
 
 ---
 
