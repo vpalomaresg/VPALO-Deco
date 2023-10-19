@@ -1,7 +1,7 @@
 # VPALO's GNU/Linux Customizations
 ## Preview
 
-<p align="center"><a href="https://github.com/vpalomaresg" target="_blank"><img width="125px" src="./preview/color-scheme.png" align="center" alt="vpalomaresg-Kurohige-Pirate" /></a></p>
+<p align="center"><a href="https://github.com/vpalomaresg/VPALO-GNULinuxCustomizations" target="_blank"><img src="./preview/color-scheme.png" align="center" alt="VPALO-Color-Scheme" /></a></p>
 
 ### Plasma Window Decoration
 1. Move the `VPALO-Deco` folder to `/usr/share/aurorae/themes/` directory.
