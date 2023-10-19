@@ -22,7 +22,7 @@
 ### Neofetch Configuration (`config.conf` file)
 1. Replace the `config.conf` file in `/home/YOUR-USER/.config/neofetch/` directory.
     - There is no need to backup your original `config.conf` file because if you lose that file, it will be regenerated when you type and run `neofetch` in your terminal.
-3. Execute `neofetch` to test it.
+3. Execute `neofetch` to test it and check the results.
 
 ---
 
