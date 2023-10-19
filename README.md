@@ -6,7 +6,7 @@
   
 <h3 align="center">Color Scheme</h3>
 
-<p align="center"><a href="https://github.com/vpalomaresg/VPALO-GNULinuxCustomizations"><img width=25% src="./preview/color-scheme.png" align="center" alt="VPALO-Color-Scheme" /></a></p>
+<p align="center"><a href="https://github.com/vpalomaresg/vpalo-essentials"><img width=25% src="./preview/color-scheme.png" align="center" alt="VPALO-Color-Scheme" /></a></p>
 
 1️⃣. Move the `VPALO.colors` file to `/usr/share/color-schemes` directory.
 
@@ -16,7 +16,7 @@
 
 <h3 align="center">Plasma Window Decoration</h3>
 
-<p align="center"><a href="https://github.com/vpalomaresg/VPALO-GNULinuxCustomizations"><img width=100% src="./preview/window-decoration.png" align="center" alt="VPALO-Window-Decoration" /></a></p>
+<p align="center"><a href="https://github.com/vpalomaresg/vpalo-essentials"><img width=100% src="./preview/window-decoration.png" align="center" alt="VPALO-Window-Decoration" /></a></p>
 
 1️⃣. Move the `VPALO-Deco` folder to `/usr/share/aurorae/themes/` directory.
 
@@ -29,7 +29,7 @@
 - ⚠️ For the correct neofetch configuration usage, please use any [`Nerd Font`](https://www.nerdfonts.com/font-downloads) in order to make the icons visible in terminal (for instance, I am using '[`MesloLG Nerd Font`](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.0.2/Meslo.zip)').
 - 🤓 There is no need to backup your original `config.conf` file because if you lose that file, it will be regenerated when you type and run `neofetch` in your terminal.
 
-<p align="center"><a href="https://github.com/vpalomaresg/VPALO-GNULinuxCustomizations"><img width=80% src="./preview/neofetch.png" align="center" alt="VPALO-Neofetch" /></a></p>
+<p align="center"><a href="https://github.com/vpalomaresg/vpalo-essentials"><img width=80% src="./preview/neofetch.png" align="center" alt="VPALO-Neofetch" /></a></p>
 
 1️⃣. Replace the `config.conf` file in `~/.config/neofetch/` directory.
 
