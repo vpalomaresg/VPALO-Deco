@@ -11,10 +11,12 @@
 1. Move the `VPALO-Deco` folder to `/usr/share/aurorae/themes/` directory.
 2. Once you moved the directory, go open  `Window Decorations` to apply `VPALO-Deco` (*Plasma Window Decoration*).
 
-#### Notes and acknowledgements
-- 🟢 **`VPALO-Deco`** (*Plasma Window Decoration*) is based on [`vinceliuice`](https://github.com/vinceliuice/MacSonoma-kde)'s work. **Thank you** for your time and effort.
+#### Notes
 - 🟡 Please, use any [Nerd Font](https://www.nerdfonts.com/font-downloads) in order to make the icons visible in terminal (I'm using [`MesloLG Nerd Font`](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.0.2/Meslo.zip)).
 - 🟡 If something is missing or wrong, feel free to check the [KDE Plasma Documentation](https://develop.kde.org/docs/plasma/) yourself.
+
+#### Acknowledgements
+- 🟢 **`VPALO-Deco`** (*Plasma Window Decoration*) is based on [`vinceliuice`](https://github.com/vinceliuice/MacSonoma-kde)'s work. **Thank you** for your time and effort.
 
 <p align="center"><a href="https://raw.githubusercontent.com/vpalomaresg/neofetch-config/main/Screenshot.png" target="_blank"><img src="./Screenshot.png" align="center" alt="vpalomaresg-neofetch" /></a>
 
