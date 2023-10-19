@@ -5,6 +5,7 @@
 ## Table of Contents
 
 - 🚧 [Installation](#-installation)
+    - [Color Scheme](#color-scheme) 
 
 ## 🚧 Installation
   
