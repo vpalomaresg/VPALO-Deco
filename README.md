@@ -1,7 +1,6 @@
 <h1 align="center">⚡ VPΛLΘ's GNU/Linux🐧 Customizations</h1>
 
 <h2 align="center">📸 Screenshots</h2>
-<p align="center"><a href="https://github.com/vpalomaresg/VPALO-GNULinuxCustomizations"><img width=25% src="./preview/color-scheme.png" align="center" alt="VPALO-Color-Scheme" /></a></p>
 <p align="center"><a href="https://github.com/vpalomaresg/VPALO-GNULinuxCustomizations"><img width=80% src="./preview/window-decoration.png" align="center" alt="VPALO-Window-Decoration" /></a></p>
 
 ---
@@ -9,6 +8,9 @@
 <h2 align="center">Installation</h2>
   
 ### Color Scheme (`VPALO.colors` file)
+
+<p align="center"><a href="https://github.com/vpalomaresg/VPALO-GNULinuxCustomizations"><img width=25% src="./preview/color-scheme.png" align="center" alt="VPALO-Color-Scheme" /></a></p>
+
 1️⃣. Move the `VPALO.colors` file to `/usr/share/color-schemes` directory.
 
 2️⃣. Once you moved the file, go open `Colors` to apply `VPALO` (*Color Scheme*).
