@@ -28,7 +28,7 @@
 
 ---
 
-<h2 align="center">📝 Notes & 🏆 Acknowledgements</h2>
+<h2 align="center">Notes & Acknowledgements</h2>
 
 - 📝 - If something is missing or wrong, feel free to check the [`KDE Plasma Documentation`](https://develop.kde.org/docs/plasma/) yourself.
 - 🏆 - **`VPALO-Deco`** (*Plasma Window Decoration*): My work is based on [`vinceliuice`](https://github.com/vinceliuice/MacSonoma-kde)'s work. **Thank you** for your time and effort.
