@@ -1,4 +1,5 @@
 <h1 align="center">VPALO's GNU/Linux Customizations</h1>
+
 ## Screenshots (Preview)
 <p align="center"><img width=25% src="./preview/color-scheme.png" align="center" alt="VPALO-Color-Scheme" /></p>
 <p align="center"><img width=75% src="./preview/window-decoration.png" align="center" alt="VPALO-Window-Decoration" /></p>
