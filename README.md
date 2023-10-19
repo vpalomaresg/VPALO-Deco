@@ -9,6 +9,5 @@
 2. Once you moved the file, go open `Colors` to apply `VPALO` (*Color Scheme*).
 
 ### Notes and acknowledgements
-
-- `Note 1`: If something is missing or wrong, feel free to check the [KDE Plasma Documentation](https://develop.kde.org/docs/plasma/) yourself.
-- `Note 2`: ✅ **`VPALO-Deco`** (*Plasma Window Decoration*) is based on [`vinceliuice`](https://github.com/vinceliuice/MacSonoma-kde)'s work.
+- If something is missing or wrong, feel free to check the [KDE Plasma Documentation](https://develop.kde.org/docs/plasma/) yourself.
+- ✅ **`VPALO-Deco`** (*Plasma Window Decoration*) is based on [`vinceliuice`](https://github.com/vinceliuice/MacSonoma-kde)'s work. So, thank you for your time and effort.
