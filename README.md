@@ -2,5 +2,5 @@
 
 `Note`: ✅ Based on [vinceliuice](https://github.com/vinceliuice/MacSonoma-kde)'s work.
 
-1. Replace the `config.conf` file in `/home/YOUR-USER/.config/neofetch/` directory.
+1. Move the `VPALO-Deco` folder to `/usr/share/aurorae/themes/` directory.
 2. Once you moved the directory, go open  `Window Decorations` to apply `VPALO-Deco`.
