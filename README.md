@@ -1,6 +1,7 @@
 # VPALO's GNU/Linux Customizations
 
-`Note 1`: If something is missing or wrong, feel free to check the [KDE Documentation - Plasma Themes and Plugins](https://develop.kde.org/docs/plasma/) yourself.
+`Note 1`: If something is missing or wrong, feel free to check the [KDE Plasma Documentation](https://develop.kde.org/docs/plasma/) yourself.
+
 `Note 2`: ✅ The *Plasma Window Decoration* is based on [vinceliuice](https://github.com/vinceliuice/MacSonoma-kde)'s work.
 
 ## Plasma Window Decoration
