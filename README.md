@@ -1,4 +1,4 @@
-<h1 align="center">⚡ VPΛLΘ's GNU/Linux🐧 Customizations⚙️</h1>
+<h1 align="center">⚡ VPΛLΘ • GNU/Linux🐧 Customizations⚙️</h1>
 
 ---
 
