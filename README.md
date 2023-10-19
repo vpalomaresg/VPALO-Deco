@@ -14,6 +14,8 @@
 ---
 
 ## 🚧 Installation
+
+---
   
 <h3 align="center">Color Scheme</h3>
 
@@ -50,9 +52,14 @@
 
 ## 🏆 Acknowledgements
 
+---
+
 - **`VPALO-Deco`** (*Plasma Window Decoration*): My work is based on [`vinceliuice`](https://github.com/vinceliuice/MacSonoma-kde)'s work. **Thank you** for your time and effort.
 
 ---
 
 ## 📝 Final Notes
+
+---
+
 - If something is missing or wrong, feel free to check the [`KDE Plasma Documentation`](https://develop.kde.org/docs/plasma/) yourself.
