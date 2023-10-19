@@ -1,6 +1,6 @@
 <h1 align="center">VPALO's GNU/Linux Customizations</h1>
 
-## Screenshots (Preview)
+## Screenshots (*Previews*)
 <p align="center"><a href="https://github.com/vpalomaresg/VPALO-GNULinuxCustomizations"><img width=25% src="./preview/color-scheme.png" align="center" alt="VPALO-Color-Scheme" /></a></p>
 <p align="center"><a href="https://github.com/vpalomaresg/VPALO-GNULinuxCustomizations"><img width=75% src="./preview/window-decoration.png" align="center" alt="VPALO-Window-Decoration" /></a></p>
 
