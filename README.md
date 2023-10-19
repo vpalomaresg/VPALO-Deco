@@ -28,8 +28,7 @@
 ---
 
 #### Notes
-- 🟡 For the correct neofetch configuration usage, please use any [`Nerd Font`](https://www.nerdfonts.com/font-downloads) in order to make the icons visible in terminal (for instance, I am using '[MesloLG Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.0.2/Meslo.zip)').
-- 🟡 If something is missing or wrong, feel free to check the [KDE Plasma Documentation](https://develop.kde.org/docs/plasma/) yourself.
+- 📝 If something is missing or wrong, feel free to check the [KDE Plasma Documentation](https://develop.kde.org/docs/plasma/) yourself.
 
 #### Acknowledgements
 - 🏆 **`VPALO-Deco`** (*Plasma Window Decoration*): My work is based on [`vinceliuice`](https://github.com/vinceliuice/MacSonoma-kde)'s work. **Thank you** for your time and effort.
