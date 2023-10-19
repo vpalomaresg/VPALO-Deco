@@ -1,7 +1,7 @@
 # VPALO's GNU/Linux Customizations
 ## Preview
 <p align="center"><a href="https://github.com/vpalomaresg/VPALO-GNULinuxCustomizations" target="_blank"><img src="./preview/color-scheme.png" align="center" alt="VPALO-Color-Scheme" /></a></p>
-<p align="center"><a href="https://github.com/vpalomaresg/VPALO-GNULinuxCustomizations" target="_blank"><img src="./preview/window-decoration.png" align="center" alt="VPALO-Window-Decoration" /></a></p>
+<p align="center"><img src="./preview/window-decoration.png" align="center" alt="VPALO-Window-Decoration" /></p>
 
 ### Color Scheme
 1. Move the `VPALO.colors` file to `/usr/share/color-schemes` directory.
