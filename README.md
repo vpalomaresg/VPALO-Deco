@@ -5,7 +5,10 @@
 ## Table of Contents
 
 - 🚧 [Installation](#-installation)
-    - [Color Scheme](#color-scheme) 
+    - [Color Scheme](#color-scheme)
+    - [Plasma Window Decoration](#plasma-window-decoration)
+    - [Neofetch Configuration](#neofetch-configuration)
+- 🏆 [Acknowledgements](#-acknowledgements)
 
 ## 🚧 Installation
   
