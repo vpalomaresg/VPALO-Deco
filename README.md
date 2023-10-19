@@ -11,6 +11,8 @@
 - 🏆 [Acknowledgements](#-acknowledgements)
 - 📝 [Final Notes](#-final-notes)
 
+---
+
 ## 🚧 Installation
   
 <h3 align="center">Color Scheme</h3>
